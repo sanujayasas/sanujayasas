@@ -1,3 +1,5 @@
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=8B5CF6&vCenter=true&random=false&width=435&lines=Self-Taught+Web+Developer;CyberSecurity+Enthusiast;UI%2FUX+Engineer;Cyber+Security+Undergraduate)
 <h1 align="center">Hi 👋, I'm Sanuja Yasas</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka and I'm Currently doing my bachelors..</h3>
 
