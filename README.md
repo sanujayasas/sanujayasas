@@ -14,11 +14,11 @@
  
  🌱 I’m currently learning **Node.js**
 
-💬 Ask me about **Java, Html, MySQL... or anything [here](https://github.com/sanujayasas/sanujayasas/issues)**
+💬 Ask me about **Java, HTML, MySQL... or anything [here](https://github.com/sanujayasas/sanujayasas/issues)**
 
 ⚡ Fun fact **There are only two Genders**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:sanujayasas08@gmail.com">
@@ -28,12 +28,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://sanujayasas.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -47,22 +47,24 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sanujayasas/sanujayasas/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/sanujayasas/sanujayasas/raw/output/github-contribution-grid-snake.svg" />
+  <!-- Replace with actual path if this doesn't display -->
   
   <br/><br/><br/>
 </div>
 
 <hr/>
-(https://spotify-recently-played-readme.vercel.app/api?user=31ormrheqrusmwkrtnxjv5ip4jtq)
 
-<!--<h2 align="center">⚡ Stats ⚡</h2>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-sanujayasas.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-sanujayasas.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sanujayasas&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sanujayasas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-sanujayasas.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>-->
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanujayasas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 
 <br/><br/>
 
@@ -71,7 +73,8 @@
 <br/>
 
 <div align="center">
-<a href='ko-fi.com/yazs518002' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://ko-fi.com/yazs518002" target="_blank"><img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
 </div>
 
 <br/>
+
