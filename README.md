@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Node.js**
 
-💬 Ask me about **Java, HTML, MySQL... or anything [here](https://github.com/sanujayasas/sanujayasas/issues)**
+💬 Ask me about **Java, Html, MySQL... or anything [here](https://github.com/sanujayasas/sanujayasas/issues)**
 
 ⚡ Fun fact **There are only two Genders**
 
@@ -45,16 +45,27 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🏙️ My GitHub Skyline 🏙️</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/sanujayasas/sanujayasas/raw/output/github-contribution-grid-snake.svg" />
-  <!-- Replace with actual path if this doesn't display -->
-  
+  <img src="https://skyline.github.com/sanujayasas/2023.png" alt="GitHub Skyline" />
+  <br/><br/><br/>
+</div>
+
+<div align="center">
+  <h2>📊 Contribution Activity Graph 📊</h2>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanujayasas&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <br/><br/><br/>
+</div>
+
+<div align="center">
+  <h2>🏆 My GitHub Trophy 🏆</h2>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=sanujayasas&theme=onedark&no-frame=true" alt="GitHub Trophy" />
   <br/><br/><br/>
 </div>
 
 <hr/>
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -71,6 +82,13 @@
 <hr/>
 
 <br/>
+
+<div align="center">
+<a href="https://ko-fi.com/yazs518002" target="_blank"><img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
+</div>
+
+<br/>
+
 
 <div align="center">
 <a href="https://ko-fi.com/yazs518002" target="_blank"><img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
