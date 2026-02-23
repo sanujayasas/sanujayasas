@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, Html, MySQL... or anything [here](https://github.com/sanujayasas/sanujayasas/issues)**
 
-⚡ Fun fact **There are only two Genders**
+⚡ Fun fact **NOTHING IS FUN**
 
 </div>
  
